@@ -4,4 +4,4 @@ This is considered as a simple database of employees in an office, an organizati
 The user has to pass through login system to get access to be able to add, view, modify and remove employee details.
 The whole project is designed in C++ Language.
 This system also has attendance system where employee can enter his attendance.
-The username is admin@gmail.com and the password is shivu3
+The username is admin@gmail.com and the password is shivu3.
